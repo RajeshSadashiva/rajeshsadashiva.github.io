@@ -4,7 +4,7 @@
 
 <dl>
 <dt>Azure</dt>
-<dd>[AutomationAccountNetworking](./AutomationAccountNetworking.html)</dd>
+[AutomationAccountNetworking](./AutomationAccountNetworking.html)
 <dt>Born</dt>
 <dd>1952</dd>
 <dt>Birthplace</dt>
