@@ -1,4 +1,3 @@
-[HOME|](https://rajeshsadashiva.github.io/)
-[BACK](./..)
+[About Me](https://www.linkedin.com/in/rajesh-sadashiva/)
 
 [Azure Networking](./AzureNetworking.html)
