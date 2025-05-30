@@ -1,18 +1,16 @@
 [About Me](https://www.linkedin.com/in/rajesh-sadashiva/).
 
-<details open>
-<summary>Azure</summary>
-<br>
 [AutomationAccountNetworking](./AutomationAccountNetworking.html)
-</details>
 
-- title: "Azure"
-    sublinks:
-      - title: "AzureNetworking"
-        url: [AutomationAccountNetworking](./AutomationAccountNetworking.html)
-      - title: "Text goes here"
-        url: "#"
-      - title: "Text goes here"
-        url: "#"
+<dl>
+<dt>Azure</dt>
+<dd>[AutomationAccountNetworking](./AutomationAccountNetworking.html)</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
 
