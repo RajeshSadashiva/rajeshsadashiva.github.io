@@ -1,6 +1,6 @@
 [HOME |](https://rajeshsadashiva.github.io/)
 [BACK |](./..)
-[Azure Networking |](./AzureNetworking.html)
+[Azure Networking](./AzureNetworking.html)
 
 # Azure Automation: Hybrid Worker Group vs. Cloud Sandbox
 
