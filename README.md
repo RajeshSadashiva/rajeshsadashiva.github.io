@@ -1,4 +1,4 @@
-[About Me](https://www.linkedin.com/in/rajesh-sadashiva/)
+[HOME](https://rajeshsadashiva.github.io/)
 
 [Azure Networking](./AzureNetworking.html)
 
