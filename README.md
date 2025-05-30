@@ -1,3 +1,3 @@
-[About Me](https://www.linkedin.com/in/rajesh-sadashiva/)
+[About Me](./Aboutme.html)
 
 [Azure Networking](./AzureNetworking.html)
