@@ -6,4 +6,13 @@
 [AutomationAccountNetworking](./AutomationAccountNetworking.html)
 </details>
 
+- title: "Azure"
+    sublinks:
+      - title: "AzureNetworking"
+        url: [AutomationAccountNetworking](./AutomationAccountNetworking.html)
+      - title: "Text goes here"
+        url: "#"
+      - title: "Text goes here"
+        url: "#"
+
 
