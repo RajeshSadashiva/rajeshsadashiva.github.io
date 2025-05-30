@@ -1,1 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
+
+sidebar:
+  - title: Azure Networking
+  hurl: https://rajeshsadashiva.github.io/AzureNetworking.html
