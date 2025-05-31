@@ -2,6 +2,9 @@ remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
+buttons:
+  zip_url: https://github.com/tuur29/pages-themes-cayman
+  zip_title: View Documentation
+  zip_hide: false
+  tar_hide: true
+  github_hide: true
