@@ -7,3 +7,5 @@
 [Azure Automation Account Networking](./AutomationAccountNetworking.html)
 
 [Azure Private Endpoint](./AzurePE.html)
+
+[On premise connectivity](./OnPremiseConnecitivity.html)
