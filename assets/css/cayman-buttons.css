@@ -1,0 +1,57 @@
+/* Cayman Primary Button */
+.cayman-btn {
+  display: inline-block;
+  padding: 0.6em 1.6em;
+  color: #fff;
+  background-color: #1abc9c;
+  border: none;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 0 2px 4px rgba(44, 62, 80, 0.08);
+  transition: background 0.2s, transform 0.1s;
+  cursor: pointer;
+}
+.cayman-btn:hover,
+.cayman-btn:focus {
+  background-color: #159c88;
+  transform: translateY(-2px) scale(1.03);
+  box-shadow: 0 4px 12px rgba(44, 62, 80, 0.18);
+  outline: none;
+}
+
+/* Secondary Button */
+.cayman-btn-secondary {
+  background-color: #34495e;
+  color: #fff;
+}
+.cayman-btn-secondary:hover,
+.cayman-btn-secondary:focus {
+  background-color: #22313a;
+}
+
+/* Outline Button */
+.cayman-btn-outline {
+  background: transparent;
+  color: #1abc9c;
+  border: 2px solid #1abc9c;
+}
+.cayman-btn-outline:hover,
+.cayman-btn-outline:focus {
+  background: #e8fffa;
+  color: #159c88;
+  border-color: #159c88;
+}
+
+/* Danger Button */
+.cayman-btn-danger {
+  background-color: #e74c3c;
+  color: #fff;
+}
+.cayman-btn-danger:hover,
+.cayman-btn-danger:focus {
+  background-color: #c0392b;
+}
