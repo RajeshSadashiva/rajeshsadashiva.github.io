@@ -1,6 +1,4 @@
-[HOME |](https://rajeshsadashiva.github.io/)
-[BACK |](./..)
-[Azure Networking](./AzureNetworking.html)
+{% include nov.md %}
 
 # Azure Automation: Hybrid Worker Group vs. Cloud Sandbox
 
