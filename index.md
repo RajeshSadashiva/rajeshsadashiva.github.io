@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-{% include nav.html %}
+{% include nov.html %}
 
 # Welcome to My Jekyll Site
 
