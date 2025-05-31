@@ -1,9 +1,1 @@
 remote_theme: pages-themes/architect@v0.2.0
-
-navigation:
-  - title: Home
-    url: /
-  - title: Blog
-    url: /blog/
-  - title: About
-    url: /about/
