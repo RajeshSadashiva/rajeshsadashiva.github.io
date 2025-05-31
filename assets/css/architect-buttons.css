@@ -1,10 +1,10 @@
 .architect-menu-btn {
   display: inline-block;
-  padding: 0.5em 1.4em;
+  padding: 0.1em 1.4em;
   color: #fff;
   background-color: #111;
   border: none;
-  border-radius: 3px;
+  border-radius: 1px;
   font-family: inherit;
   font-size: 1em;
   font-weight: 500;
