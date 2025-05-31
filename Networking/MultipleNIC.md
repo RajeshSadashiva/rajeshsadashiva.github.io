@@ -1,7 +1,4 @@
-[HOME |](https://rajeshsadashiva.github.io/)
-[BACK |](./..)
-[Azure Networking |](./AzureNetworking.html)
-[Networking](./Networking.html)
+{% include nov.md %}
 
 # Why Multiple Network Interface Cards (NICs) are Assigned
 
