@@ -7,3 +7,5 @@ plugins:
 include:
   - _includes/head-custom.html
   - _includes/nav.html
+
+{% include nov.md %}
