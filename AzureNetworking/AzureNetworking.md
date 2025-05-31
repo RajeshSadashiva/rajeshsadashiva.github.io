@@ -1,6 +1,4 @@
-[HOME |](https://rajeshsadashiva.github.io/)
-[BACK |](./..)
-[Azure Networking](./AzureNetworking.html)
+{% include nov.md %}
 
 [Azure Load balancing solutions](./Azure_LB_solutions.html)
 
