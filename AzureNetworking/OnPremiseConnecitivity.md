@@ -1,3 +1,5 @@
+{% include nov.md %}
+
 # Azure On-Premises Connectivity
 
 This repository provides guidance and resources for establishing connectivity between Microsoft Azure and on-premises infrastructure. Azure offers several solutions to integrate on-premises environments with cloud services, enabling hybrid architectures for seamless data flow, application hosting, and resource management.
