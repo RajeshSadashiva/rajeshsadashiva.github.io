@@ -2,10 +2,10 @@ remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-remote-theme
   
-navigation:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Blog
-    url: /blog/
+nav:
+  - name: "View on GitHub"
+    url: "https://github.com/yourusername/yourrepo"
+  - name: "About"
+    url: "/about.html"
+  - name: "Contact"
+    url: "/contact.html"
